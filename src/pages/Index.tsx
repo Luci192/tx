@@ -669,7 +669,7 @@ return () => {
             variant="urgent"
             size="xl"
             className="text-xl px-16 py-8 mb-6"
-            onClick={() => window.open("https://donate.stripe.com/cNi6oJcsIbxKgeX7Sn1sQ0w", "_blank")}
+            onClick={() => window.open("https://buy.stripe.com/4gMfZh387cy1b9Ogc0bQY00", "_blank")}
             >
             <Heart className="mr-3 h-6 w-6" />
             Donate to Save Lives
